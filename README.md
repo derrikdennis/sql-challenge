@@ -1,4 +1,4 @@
-#Week 09 - SQL-Challenge
+# Week 09 - SQL-Challenge
 
 This week's assignment four distinct components. This document will identify each of those components and what they entailed.
 
