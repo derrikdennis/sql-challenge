@@ -1,11 +1,16 @@
 # Week 09 -  Employee Database: A Mystery in two Parts
 
-This week's assignment four distinct components. This document will identify each of those components and what they entailed.
+In this assignment, I was to take 6 csv files and look at employees of a fictional company Pewlett Hackard. I was to do the following:
+ - Data Modeling
+ - Data Engineering
+ - Data Analysis
 
+## - Section 1 - Data Modeling
 
-## - Section 1 - Data Mining
-
-In this section, I used freeware at quickdatabasedesigns.com in order to create an ERD regarding the SQL database.  I assigned primary keys, along with foreigns keys relating back to employees.emp_no and departments.dept_no.  The ERD can be found with the file Data_Modeling_ERD.png
+I inspected the CSVs and sketched out an ERD of the tables.
+I used freeware at quickdatabasedesigns.com in order to create an ERD regarding the SQL database.  I assigned primary keys, along with foreigns keys relating back to employees.emp_no and departments.dept_no. 
+Here is the results of the ERD:
+![Data_Modeling_ERD](EmployeeSQL/Data_Modeling_ERD.png)
 
 ## - Section 2 - Data Engineering
 
