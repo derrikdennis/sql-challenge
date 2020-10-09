@@ -1,4 +1,10 @@
-# Week 09 -  Employee Database: A Mystery in two Parts
+# Week 09 -  Employee Database: A Mystery in two Parts  <!-- omit in toc -->
+
+- [Background](#background)
+- [Section 1 - Data Modeling](#section-1---data-modeling)
+- [Section 2 - Data Engineering](#section-2---data-engineering)
+- [Section 3 Data Analysis.](#section-3-data-analysis)
+- [Section 4.0 BPM](#section-40-bpm)
 
 ## Background
 
