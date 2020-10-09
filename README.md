@@ -39,4 +39,7 @@ Two charts are made: a histogram of salaries grouped in bands of $5K, an a look 
 Here's the historgram:
 ![histogram](EmployeeSQL/bonus_output_files/histogram.svg)
 
+Here's the average salary chart:
+![average salary chart](EmployeeSQL/bonus_output_files/titles_by_salary.svg)
+
 Finally,  the jist of the joke was made clear. April Fools to you too.  In July.
