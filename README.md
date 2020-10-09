@@ -22,7 +22,10 @@ Here is the results of the ERD:
 
 ## Section 2 - Data Engineering
 
-For this section, I cereated the file DataEngineering.sql which can be found in the EmployeeSQL file folder.  This file will drop SQL datatables, if necessary, and then create the six tables needed for the rest of the assignment.  The user will have to provide those six tables or request it from the owner of this repository.  Use PGAdmin4 in order to finish importing the files.
+For this section, I used the results of the ERD to create a file DataEngineering.sql which can be found in the EmployeeSQL file folder.  
+This file will drop any tables previously created, if necessary, and then (re)create the six tables needed for the rest of the assignment.  
+The user will have to provide those six tables or request it from the owner of this repository.  
+I used PGAdmin4 in order to finish importing the files.
 
 ## Section 3 Data Analysis.
 
