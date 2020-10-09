@@ -4,7 +4,7 @@
 - [Section 1 - Data Modeling](#section-1---data-modeling)
 - [Section 2 - Data Engineering](#section-2---data-engineering)
 - [Section 3 Data Analysis.](#section-3-data-analysis)
-- [Section 4.0 BPM](#section-40-bpm)
+- [Section 4.0 Bonus Section](#section-40-bonus-section)
 
 ## Background
 
@@ -32,6 +32,8 @@ I used PGAdmin4 in order to finish importing the files.
 All eight analysis have been carefully coded into the DataAnalysis.sqlfile. 
 Each analysis also creates a view which can be seen in the SQL-Database.
 
-## Section 4.0 BPM
+## Section 4.0 Bonus Section
 
-Finally I take a deeper dive in the data, transferring SQL tables over into distinct dataframes  focused on the salaries class. Two charts are made: a histogram of salaries grouped in bands of $5K, an a look at average salaries by job title.  Fjnally,  APril Fools to you too.  In July.
+Finally I take a deeper dive in the data, transferring SQL tables over into distinct Pandas DataFrames  focused on the salaries class. 
+Two charts are made: a histogram of salaries grouped in bands of $5K, an a look at average salaries by job title.  
+Finally,  the jist of the joke was made clear. April Fools to you too.  In July.
