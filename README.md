@@ -36,4 +36,7 @@ Each analysis also creates a view which can be seen in the SQL-Database.
 
 Finally I take a deeper dive in the data, transferring SQL tables over into distinct Pandas DataFrames  focused on the salaries class. 
 Two charts are made: a histogram of salaries grouped in bands of $5K, an a look at average salaries by job title.  
+Here's the historgram:
+![histogram](EmployeeSQL/bonus_output_files/histogram.svg)
+
 Finally,  the jist of the joke was made clear. April Fools to you too.  In July.
