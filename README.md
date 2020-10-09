@@ -29,7 +29,8 @@ I used PGAdmin4 in order to finish importing the files.
 
 ## Section 3 Data Analysis.
 
-All eight analysis have been carefully coded into the DataAnalysis.sqlfile. Each analysis also creates a view which can be seen in the SQL-Database.
+All eight analysis have been carefully coded into the DataAnalysis.sqlfile. 
+Each analysis also creates a view which can be seen in the SQL-Database.
 
 ## Section 4.0 BPM
 
