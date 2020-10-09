@@ -1,5 +1,7 @@
 # Week 09 -  Employee Database: A Mystery in two Parts
 
+## Background
+
 In this assignment, I was to take 6 csv files and look at employees of a fictional company Pewlett Hackard. I was to do the following:
  - Data Modeling
  - Data Engineering
