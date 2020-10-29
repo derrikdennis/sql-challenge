@@ -1,4 +1,4 @@
-# Week 09 -  Employee Database: A Mystery in two Parts  <!-- omit in toc -->
+# Employee Database - SQL Challenge  <!-- omit in toc -->
 
 ## Table of Contents <!-- omit in toc -->
 - [Background](#background)
