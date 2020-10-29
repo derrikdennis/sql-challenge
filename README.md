@@ -4,7 +4,7 @@
 - [Background](#background)
 - [Section 1 - Data Modeling](#section-1---data-modeling)
 - [Section 2 - Data Engineering](#section-2---data-engineering)
-- [Section 3 - Data Analysis.](#section-3---data-analysis)
+- [Section 3 - Data Analysis](#section-3---data-analysis)
 - [Section 4 - Bonus Section](#section-4---bonus-section)
 
 ## Background
@@ -28,7 +28,7 @@ This file will drop any tables previously created, if necessary, and then (re)cr
 The user will have to provide those six tables or request it from the owner of this repository.  
 I used PGAdmin4 in order to finish importing the files.
 
-## Section 3 - Data Analysis.
+## Section 3 - Data Analysis
 
 All eight analysis have been carefully coded into the DataAnalysis.sqlfile. 
 Each analysis also creates a view which can be seen in the SQL-Database.
